@@ -2,11 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-<<<<<<< HEAD
 /dataSources/
-=======
-/../../../../../../../../../:\Users\rober\Go\src\github.com\robert-impey\gopl.io\.idea/dataSources/
->>>>>>> e8ef7a2 (Idea files)
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
